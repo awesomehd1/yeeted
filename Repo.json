@@ -1,0 +1,19 @@
+{
+  "reponame":"Hdrepo",
+  "repologo":"https://example.com/icon.png",
+  "repoauthor":"awesomehd1",
+  "repodesc":"This is an example Eclipse repo. It is pretty cool.",
+  "categories":[
+    {
+      "categoryname":"POKEMON",
+      "games":[
+        {
+          "name":"FIRE VERSION",
+          "link":"https://awesomehd1.github.io/yeeted/PokemonFire.gba",
+          "boxart":"Game Boxart",
+          "system":"GBA"
+        }
+      ]
+    }
+  ]
+}
